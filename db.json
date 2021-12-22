@@ -1,5 +1,5 @@
  {
- eventos: {
+ eventos: [{
         id: '01',
         categoria: 'mascotas',
         titulo: 'Dia Adopcion Perros',
@@ -30,6 +30,6 @@
         fecha: '28 de agosto de 2022',
         hora: '13:00',
         mascotasPermitidas: true,
-        organizador: 'Loreta'}
+        organizador: 'Loreta'}]
         }
       
