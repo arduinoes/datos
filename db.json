@@ -23,6 +23,54 @@
       "nombre": "StarLord",
       "imagen": "./imagenes/StarLord.jpeg",
       "descripcion": "Es el hijo mestizo del emperador J'Son del planeta Spartax y la humana Meredith Quill"
+    },
+       {
+      "id": "05",
+      "nombre": "AntMan",
+      "imagen": "./imagenes/AntMan.jpeg",
+      "descripcion": "Es un ladrón reformado y un experto en electrónica."
+    },
+    {
+      "id": "06",
+      "nombre": "Capitán América",
+      "imagen": "./imagenes/CapitanAmerica.jpeg",
+      "descripcion": "Es un hombre enfermizo de Brooklyn que se transforma en el super soldado."
+    },
+    {
+      "id": "07",
+      "nombre": "AntMan",
+      "imagen": "./imagenes/AntMan.jpeg",
+      "descripcion": "Es un ladrón reformado y un experto en electrónica."
+    },
+    {
+      "id": "08",
+      "nombre": "El increíble Hulk",
+      "imagen": "./imagenes/Hulk.jpeg",
+      "descripcion": "Es un científico que trabajaba en una bomba de radiación Gamma para el ejercito estadounidenseera un científico que trabajaba en una bomba de radiación Gamma para el ejercito estadounidense."
+    },
+    {
+      "id": "09",
+      "nombre": "IronMan",
+      "imagen": "./imagenes/IronMan.jpeg",
+      "descripcion": "Es un empresario e ingeniero, que construye un exoesqueleto motorizado."
+    },
+    {
+      "id": "10",
+      "nombre": "Pantera Negra",
+      "imagen": "./imagenes/PanteraNegra.jpeg",
+      "descripcion": "Es el rey y protector de la ficticia nación africana de Wakanda."
+    },
+    {
+      "id": "11",
+      "nombre": "Spiderman",
+      "imagen": "./imagenes/SpiderMan.jpeg",
+      "descripcion": "Es un superhéroe que emplea sus habilidades sobrehumanas, reminiscentes de una araña, para combatir a otros supervillanos."
+    },
+    {
+      "id": "12",
+      "nombre": "AntMan",
+      "imagen": "./imagenes/AntMan.jpeg",
+      "descripcion": "Es un ladrón reformado y un experto en electrónica."
     }
   ]
 }
